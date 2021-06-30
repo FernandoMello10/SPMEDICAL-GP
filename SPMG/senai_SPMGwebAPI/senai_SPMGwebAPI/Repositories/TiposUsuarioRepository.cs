@@ -8,7 +8,7 @@ namespace senai_SPMGwebAPI.Interfaces
     /// <summary>
     /// Interface responsavel pelo repositorio TiposUsuario
     /// </summary>
-    interface TiposUsuario
+    interface TipoUsuario
     {
         //Definição de métodos, seguem a estrutura:
         // tipoRetorno nomeMetodo(tipoParametro nomeparametros);

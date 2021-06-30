@@ -65,3 +65,13 @@ C:\Users\dev\Desktop\Fernando M\SPMEDICAL-GP\SPMG\Banco de Dados\senai_SPMGwebAP
 C:\Users\dev\Desktop\Fernando M\SPMEDICAL-GP\SPMG\Banco de Dados\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\ref\senai_SPMGwebAPI.dll
 C:\Users\dev\Desktop\Fernando M\SPMEDICAL-GP\SPMG\Banco de Dados\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.pdb
 C:\Users\dev\Desktop\Fernando M\SPMEDICAL-GP\SPMG\Banco de Dados\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.genruntimeconfig.cache
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.AssemblyInfo.cs
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.dll
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\ref\senai_SPMGwebAPI.dll
+C:\Users\dell\Desktop\SPMG\SPMG\SPMG\senai_SPMGwebAPI\senai_SPMGwebAPI\obj\Debug\net5.0\senai_SPMGwebAPI.pdb
